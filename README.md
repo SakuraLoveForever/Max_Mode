@@ -2,6 +2,8 @@
 
 一个 Windows 桌面工具，专为 **DeepSeek** 的接入使用而打造。为 DeepSeek 创建和管理不同的运行模式，每个模式绑定不同的**思考强度**、**权限级别**和**模型**，一键生成启动脚本。
 
+![Max Mode 截图](screenshot.png)
+
 ## 为什么选择 Max Mode？
 
 DeepSeek 提供了多款模型（`deepseek-v4-pro`、`deepseek-chat`、`deepseek-reasoner` 等），每种模型适合不同场景。Max Mode 让你在它们之间秒切，同时控制权限和推理深度，免去每次手动敲 CLI 参数的麻烦。
